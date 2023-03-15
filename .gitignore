@@ -1,0 +1,10 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/x64/Debug
+/16.6 -Task-1-Speedometer.vcxproj.user
+/16.6 -Task-1-Speedometer.vcxproj.filters
+/16.6 -Task-1-Speedometer.vcxproj
+/16.6 -Task-1-Speedometer.sln
+/.vs/16.6 -Task-1-Speedometer
