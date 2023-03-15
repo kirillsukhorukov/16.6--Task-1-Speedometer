@@ -10,7 +10,7 @@ void speed_output(const float &speed)
     string speedDig = (string)speedStr + " KM/H";
     cout << endl << "--SPEED--" << endl << speedDig << endl << endl;
 }
-//Функциия проверки пользовательского ввода
+//Функция проверки пользовательского ввода
 bool speed_check(float &speed, const float &delta)
 {
     float currentSpeed = speed + delta;
